@@ -8,9 +8,7 @@ This repository contains the complete documentation, research, source code, and 
 ## 🚀 Quick Links
 
 * **Live Demo:** https://cybernexus-seven.vercel.app
-* **Development Repository:** View Source Code on GitHub
-* **Project Video Demo:** *Cyber Threat Dashboard- Demo Video.mp4*
-
+  
 ---
 
 # 📂 Project Structure & Deliverables
